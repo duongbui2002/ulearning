@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175064369920",
+    "project_id": "ace-nomad-404303",
+    "storage_bucket": "ace-nomad-404303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175064369920:android:255e97feb918b6229a41e5",
+        "android_client_info": {
+          "package_name": "com.dbestech.ulearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpO1fCX1Z_zE_WFokIdaETeGnscDrlS5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
